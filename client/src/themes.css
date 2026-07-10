@@ -1,0 +1,248 @@
+/* ============================================================
+   FILAMENT VAULT — THEMES
+   Copy the desired :root block into index.css to switch themes.
+   Only one :root block should be active at a time.
+   ============================================================ */
+
+/* ── THEME: Neon (Dark) ─────────────────────────────────────
+   Neon Dark
+   ─────────────────────────────────────────────────────────── */
+
+:root {
+	/* Fonts */
+	--font-body: "Roboto", sans-serif;
+	--font-mono: "Roboto Mono", monospace;
+
+	/* Brand / accent */
+	--color-accent: #21939a;
+	--color-accent-hover: #00c8d4;
+	--color-accent-glow: rgba(0, 230, 240, 0.4);
+	--color-accent-subtle: rgba(0, 230, 240, 0.08);
+
+	/* Backgrounds */
+	--color-bg: #0b0e14;
+	--color-bg-panel: #0f1520;
+	--color-bg-card: rgba(30, 41, 59, 0.7);
+	--color-bg-input: #111827;
+	--color-bg-header: rgba(11, 14, 20, 0.97);
+	--color-bg-tag: #1a2235;
+	--color-bg-icon: rgba(30, 41, 59, 0.7);
+
+	/* Borders */
+	--color-border: #1e293b;
+	--color-border-input: #263448;
+	--color-border-subtle: #2d3f55;
+	--color-border-swatch: #868690;
+	--color-border-active: #3f4f63;
+
+	/* Text */
+	--color-text-primary: #f0f4f8;
+	--color-text-body: #94a3b8;
+	--color-text-muted: #c39cf9;
+	--color-text-faint: #27b0b7;
+	--color-text-link: #a56ef1;
+	--color-text-accent: #dd61a7;
+	--color-text-brand: #27b0b7;
+	--color-text-actions: #868690;
+
+	/* Tub / location colours */
+	--color-tub1: #6ae496;
+	--color-tub2: #5789f5;
+	--color-tub3: #ed4b4b;
+	--color-ext: #bdbdbd;
+
+	/* Semantic */
+	--color-success-bg: #a56ef1;
+	--color-success-border: #c39cf9;
+	--color-danger: #ed4b4b;
+	--color-danger-bg: #2d0022;
+	--color-danger-heading: #f19393;
+	--color-danger-border: #7a0044;
+	--color-danger-subtle: rgba(237, 75, 75, 0.15);
+	--color-warning: #d97706;
+
+	/* Scrollbar */
+	--color-scrollbar-track: #0b0e14;
+	--color-scrollbar-thumb: #1e293b;
+	--color-scrollbar-hover: #2d3f55;
+}
+
+/* ── THEME: Paper (light) ────────────────────────────────────
+   Clean white cards, slate text, blue accent.
+   ──────────────────────────────────────────────────────────── */
+
+:root {
+	/* Fonts */
+	--font-body: "Roboto", sans-serif;
+	--font-mono: "Roboto Mono", monospace;
+
+	/* Brand / accent */
+	--color-accent: #3b82f6;
+	--color-accent-hover: #2563eb;
+	--color-accent-glow: rgba(59, 130, 246, 0.3);
+	--color-accent-subtle: rgba(59, 130, 246, 0.08);
+
+	/* Backgrounds */
+	--color-bg: #f8fafc;
+	--color-bg-panel: #ffffff;
+	--color-bg-card: #ffffff;
+	--color-bg-input: #ffffff;
+	--color-bg-header: rgba(255, 255, 255, 0.95);
+	--color-bg-tag: #eff6ff;
+	--color-bg-icon: #f4f4f4;
+
+	/* Borders */
+	--color-border: #e2e8f0;
+	--color-border-input: #cbd5e1;
+	--color-border-subtle: #bebebe;
+	--color-border-swatch: #bebebe;
+	--color-border-active: #cbd5e1;
+
+	/* Text */
+	--color-text-primary: #1e293b;
+	--color-text-body: #334155;
+	--color-text-muted: #3b82f6;
+	--color-text-faint: #94a3b8;
+	--color-text-link: #2563eb;
+	--color-text-accent: #3b82f6;
+	--color-text-brand: #3b82f6;
+	--color-text-actions: #868690;
+
+	/* Tub / location colours */
+	--color-tub1: #16a34a;
+	--color-tub2: #2563eb;
+	--color-tub3: #dc2626;
+	--color-ext: #888;
+
+	/* Semantic */
+	--color-success-bg: #dcfce7;
+	--color-success-border: #86efac;
+	--color-danger: #dc2626;
+	--color-danger-bg: #fee2e2;
+	--color-danger-heading: #a22020;
+	--color-danger-border: #ef44444d;
+	--color-danger-subtle: rgba(253, 125, 125, 0.08);
+	--color-warning: #d97706;
+
+	/* Scrollbar */
+	--color-scrollbar-track: #f1f5f9;
+	--color-scrollbar-thumb: #cbd5e1;
+	--color-scrollbar-hover: #94a3b8;
+}
+
+/* ── THEME: Steel Blue (Dark) ────────────────────────────────
+   Lighter version of the original. 
+   ──────────────────────────────────────────────────────────── */
+:root {
+	/* Fonts */
+	--font-body: "Roboto", sans-serif;
+	--font-mono: "Roboto Mono", monospace;
+
+	/* Brand / accent */
+	--color-accent: #3b82f6;
+	--color-accent-hover: #2563eb;
+	--color-accent-glow: rgba(59, 130, 246, 0.5);
+	--color-accent-subtle: rgba(59, 130, 246, 0.1);
+
+	/* Backgrounds */
+	--color-bg: #11192c;
+	--color-bg-panel: #0b121f;
+	--color-bg-card: #1b2637;
+	--color-bg-input: #0f1e33;
+	--color-bg-header: #11192c;
+	--color-bg-tag: #0f2035;
+	--color-bg-icon: #1e3a5f;
+
+	/* Borders */
+	--color-border: #1a2f4a;
+	--color-border-input: #1e3a5f;
+	--color-border-subtle: #334155;
+	--color-border-swatch: #686872;
+	--color-border-active: #5c5c63;
+
+	/* Text */
+	--color-text-primary: #e2e8f0;
+	--color-text-body: #cbd5e1;
+	--color-text-muted: #77a0d9;
+	--color-text-faint: #8e9bb2;
+	--color-text-link: #60a5fa;
+	--color-text-accent: #7dd3fc;
+	--color-text-brand: #60a5fa;
+	--color-text-actions: #868690;
+
+	/* Tub / location colours */
+	--color-tub1: #22c55e;
+	--color-tub2: #3b82f6;
+	--color-tub3: #ef4444;
+	--color-ext: #747474;
+
+	/* Semantic */
+	--color-success-bg: #166534;
+	--color-success-border: #15803d;
+	--color-danger: #ef4444;
+	--color-danger-bg: #7f1d1d;
+	--color-danger-heading: #f19393;
+	--color-danger-border: #991b1b;
+	--color-danger-subtle: rgba(239, 68, 68, 0.1);
+	--color-warning: #f59e0b;
+
+	/* Scrollbar */
+	--color-scrollbar-track: #0c1220;
+	--color-scrollbar-thumb: #2d3f5a;
+	--color-scrollbar-hover: #1a2436;
+}
+
+/* ── THEME: Graphite (Dark) ──────────────────────────────────
+   Pure neutral dark, no color cast. Purple accent.
+   ──────────────────────────────────────────────────────────── */
+
+:root {
+	--font-body: "Roboto", sans-serif;
+	--font-mono: "Roboto Mono", monospace;
+
+	--color-accent: #7c3aed;
+	--color-accent-hover: #6d28d9;
+	--color-accent-glow: rgba(124, 58, 237, 0.5);
+	--color-accent-subtle: rgba(124, 58, 237, 0.1);
+
+	--color-bg: #18191c;
+	--color-bg-panel: #111213;
+	--color-bg-card: rgba(34, 35, 38, 0.9);
+	--color-bg-input: #1e1e22;
+	--color-bg-header: rgba(16, 17, 19, 0.95);
+	--color-bg-tag: #1a1a20;
+	--color-bg-icon: rgba(34, 35, 38, 0.9);
+
+	--color-border: #2e3035;
+	--color-border-input: #3a3b40;
+	--color-border-subtle: #3f4046;
+	--color-border-swatch: #5c5c63;
+	--color-border-active: #5c5c63;
+
+	--color-text-primary: #f0f0f2;
+	--color-text-body: #c4c4cc;
+	--color-text-muted: #a78bfa;
+	--color-text-faint: #868690;
+	--color-text-link: #a78bfa;
+	--color-text-accent: #ae84f7;
+	--color-text-brand: #d6c9fd;
+	--color-text-actions: #868690;
+
+	--color-tub1: #4ade80;
+	--color-tub2: #60a5fa;
+	--color-tub3: #f87171;
+	--color-ext: #888;
+
+	--color-success-bg: #14532d;
+	--color-success-border: #166534;
+	--color-danger: #ef4444;
+	--color-danger-bg: #7f1d1d;
+	--color-danger-heading: #f19393;
+	--color-danger-border: #991b1b;
+	--color-danger-subtle: rgba(239, 68, 68, 0.1);
+	--color-warning: #f59e0b;
+
+	--color-scrollbar-track: #18191c;
+	--color-scrollbar-thumb: #2e3035;
+	--color-scrollbar-hover: #3f4046;
+}

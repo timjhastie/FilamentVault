@@ -1,0 +1,11 @@
+{
+  "name": "filament-vault",
+  "version": "1.0.0",
+  "description": "3D Filament Inventory Manager",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "build": "cd client && npm run build",
+    "start": "cd server && node server.js",
+    "setup": "npm run install:all && npm run build"
+  }
+}

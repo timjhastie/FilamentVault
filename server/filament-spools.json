@@ -1,0 +1,936 @@
+[
+	{
+		"id": 2,
+		"type": "PLA",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#242424"
+		],
+		"finish": "Matte",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 2
+	},
+	{
+		"id": 3,
+		"type": "PLA+",
+		"name": "Cold White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 3
+	},
+	{
+		"id": 4,
+		"type": "PLA",
+		"name": "Plum Purple",
+		"colorGroup": "Purple",
+		"colorCodes": [
+			"#8E4BA3"
+		],
+		"finish": "",
+		"brand": "ZEN",
+		"location": "Tub 1",
+		"spoolNo": 5
+	},
+	{
+		"id": 7,
+		"type": "PLA",
+		"name": "Brown",
+		"colorGroup": "Brown",
+		"colorCodes": [
+			"#6b4327"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 1",
+		"spoolNo": 8
+	},
+	{
+		"id": 9,
+		"type": "PLA+",
+		"name": "Bone White",
+		"colorGroup": "Brown",
+		"colorCodes": [
+			"#FDF6DB"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 10
+	},
+	{
+		"id": 10,
+		"type": "PLA",
+		"name": "Matcha Green",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#C6E6A8"
+		],
+		"finish": "Matte",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 51
+	},
+	{
+		"id": 11,
+		"type": "PLA+",
+		"name": "Olive Green",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#4d6327"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 52
+	},
+	{
+		"id": 12,
+		"type": "PLA+",
+		"name": "Green",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#042d28"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 54
+	},
+	{
+		"id": 13,
+		"type": "PLA",
+		"name": "Gold",
+		"colorGroup": "Gold",
+		"colorCodes": [
+			"#CA9F02"
+		],
+		"finish": "Metal",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 57
+	},
+	{
+		"id": 15,
+		"type": "PLA",
+		"name": "Copper",
+		"colorGroup": "Bronze",
+		"colorCodes": [
+			"#ff8800"
+		],
+		"finish": "Silk",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 11
+	},
+	{
+		"id": 16,
+		"type": "PLA+",
+		"name": "Tri-Color Blue Green Purple",
+		"colorGroup": "Multi-Color",
+		"colorCodes": [
+			"#0062ff",
+			"#00C407",
+			"#d000ff"
+		],
+		"finish": "Silk",
+		"brand": "Sunlu",
+		"location": "Tub 2",
+		"spoolNo": 30
+	},
+	{
+		"id": 17,
+		"type": "PLA",
+		"name": "Gold",
+		"colorGroup": "Gold",
+		"colorCodes": [
+			"#FFC000"
+		],
+		"finish": "Silk",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 31
+	},
+	{
+		"id": 18,
+		"type": "PLA+",
+		"name": "Chrome Silver",
+		"colorGroup": "Silver",
+		"colorCodes": [
+			"#D8D8D8"
+		],
+		"finish": "Silk",
+		"brand": "SA Filament",
+		"location": "Tub 2",
+		"spoolNo": 32
+	},
+	{
+		"id": 19,
+		"type": "PLA+",
+		"name": "Grey",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#949494"
+		],
+		"finish": "Silk",
+		"brand": "Sunlu",
+		"location": "Tub 2",
+		"spoolNo": 33
+	},
+	{
+		"id": 20,
+		"type": "PLA+",
+		"name": "Red",
+		"colorGroup": "Red",
+		"colorCodes": [
+			"#D20000"
+		],
+		"finish": "Silk",
+		"brand": "Sunlu",
+		"location": "Tub 2",
+		"spoolNo": 34
+	},
+	{
+		"id": 21,
+		"type": "PLA+",
+		"name": "Merlot",
+		"colorGroup": "Red",
+		"colorCodes": [
+			"#C90332"
+		],
+		"finish": "Silk",
+		"brand": "SA Filament",
+		"location": "Tub 2",
+		"spoolNo": 35
+	},
+	{
+		"id": 22,
+		"type": "PLA+",
+		"name": "White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "Silk",
+		"brand": "Sunlu",
+		"location": "Tub 2",
+		"spoolNo": 37
+	},
+	{
+		"id": 23,
+		"type": "PLA",
+		"name": "Marble",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#c6c6c6",
+			"#e2e0e0",
+			"#c6c6c6",
+			"#e2e0e0",
+			"#c6c6c6",
+			"#e2e0e0",
+			"#c6c6c6",
+			"#e2e0e0",
+			"#c6c6c6",
+			"#e2e0e0"
+		],
+		"finish": "Marble",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 38
+	},
+	{
+		"id": 24,
+		"type": "PLA+",
+		"name": "Grey",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#7f7f7f"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 2",
+		"spoolNo": 39
+	},
+	{
+		"id": 25,
+		"type": "PLA+",
+		"name": "Light Grey",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#b0afaf"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 2",
+		"spoolNo": 40
+	},
+	{
+		"id": 26,
+		"type": "PLA",
+		"name": "Dark Grey",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#565e6d"
+		],
+		"finish": "Matte",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 41
+	},
+	{
+		"id": 27,
+		"type": "PLA",
+		"name": "Tangerine",
+		"colorGroup": "Orange",
+		"colorCodes": [
+			"#FC8E14"
+		],
+		"finish": "Matte",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 43
+	},
+	{
+		"id": 28,
+		"type": "PLA",
+		"name": "UV Pink",
+		"colorGroup": "Pink",
+		"colorCodes": [
+			"#F149F1"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 2",
+		"spoolNo": 47
+	},
+	{
+		"id": 29,
+		"type": "PLA",
+		"name": "Baby Pink",
+		"colorGroup": "Pink",
+		"colorCodes": [
+			"#FACAFB"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 2",
+		"spoolNo": 48
+	},
+	{
+		"id": 30,
+		"type": "PLA",
+		"name": "Lilac Pink",
+		"colorGroup": "Pink",
+		"colorCodes": [
+			"#F1B0FE"
+		],
+		"finish": "",
+		"brand": "ZEN",
+		"location": "Tub 2",
+		"spoolNo": 49
+	},
+	{
+		"id": 31,
+		"type": "PLA",
+		"name": "Morandi Purple",
+		"colorGroup": "Pink",
+		"colorCodes": [
+			"#a45994"
+		],
+		"finish": "Matte",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 50
+	},
+	{
+		"id": 32,
+		"type": "PLA",
+		"name": "Red",
+		"colorGroup": "Red",
+		"colorCodes": [
+			"#DF2126"
+		],
+		"finish": "Matte",
+		"brand": "Sunlu",
+		"location": "Tub 3",
+		"spoolNo": 12
+	},
+	{
+		"id": 33,
+		"type": "PLA",
+		"name": "Clear",
+		"colorGroup": "Clear",
+		"colorCodes": [
+			"#EBEBE9"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 14
+	},
+	{
+		"id": 34,
+		"type": "TPE",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#262626"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 3",
+		"spoolNo": 15
+	},
+	{
+		"id": 35,
+		"type": "TPU",
+		"name": "Grey",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#717D8F"
+		],
+		"finish": "",
+		"brand": "Sunlu",
+		"location": "Tub 3",
+		"spoolNo": 16
+	},
+	{
+		"id": 36,
+		"type": "TPU",
+		"name": "Green",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#63F014"
+		],
+		"finish": "",
+		"brand": "CRON",
+		"location": "Tub 3",
+		"spoolNo": 17
+	},
+	{
+		"id": 37,
+		"type": "TPU",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#000000"
+		],
+		"finish": "",
+		"brand": "Creality",
+		"location": "Tub 3",
+		"spoolNo": 18
+	},
+	{
+		"id": 38,
+		"type": "SBS+",
+		"name": "Blue",
+		"colorGroup": "Blue",
+		"colorCodes": [
+			"#0000D2"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 19
+	},
+	{
+		"id": 39,
+		"type": "SBS+",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#000000"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 20
+	},
+	{
+		"id": 40,
+		"type": "SBS+",
+		"name": "White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 21
+	},
+	{
+		"id": 41,
+		"type": "SBS+",
+		"name": "Transparent Deep Red",
+		"colorGroup": "Red",
+		"colorCodes": [
+			"#9A0000"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 22
+	},
+	{
+		"id": 42,
+		"type": "PETG",
+		"name": "Orange",
+		"colorGroup": "Orange",
+		"colorCodes": [
+			"#FF8805"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 23
+	},
+	{
+		"id": 44,
+		"type": "PETG",
+		"name": "White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 3",
+		"spoolNo": 25
+	},
+	{
+		"id": 46,
+		"type": "PETG",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#000000"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 3",
+		"spoolNo": 27
+	},
+	{
+		"id": 47,
+		"type": "PETG",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#242424"
+		],
+		"finish": "Matte",
+		"brand": "Sunlu",
+		"location": "Tub 3",
+		"spoolNo": 28
+	},
+	{
+		"id": 48,
+		"type": "PETG",
+		"name": "Silver",
+		"colorGroup": "Silver",
+		"colorCodes": [
+			"#949494"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 3",
+		"spoolNo": 29
+	},
+	{
+		"id": 49,
+		"type": "PLA",
+		"name": "Grey",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#b4b4b4"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 61
+	},
+	{
+		"id": 50,
+		"type": "PLA",
+		"name": "Clay",
+		"colorGroup": "Brown",
+		"colorCodes": [
+			"#898062"
+		],
+		"finish": "Matte",
+		"brand": "Sunlu",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 51,
+		"type": "PETG",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#0e0e0e"
+		],
+		"finish": "Matte",
+		"brand": "Sunlu",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 52,
+		"type": "PETG",
+		"name": "White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "Matte",
+		"brand": "Sunlu",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 53,
+		"type": "PLA+",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#000000"
+		],
+		"finish": "Silk",
+		"brand": "Sunlu",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 54,
+		"type": "PLA",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#242424"
+		],
+		"finish": "Matte",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 55,
+		"type": "PLA",
+		"name": "White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "Matte",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 59
+	},
+	{
+		"id": 56,
+		"type": "PLA+",
+		"name": "Cold White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 7
+	},
+	{
+		"id": 57,
+		"type": "PLA",
+		"name": "Green",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#039738"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 58
+	},
+	{
+		"id": 58,
+		"type": "PLA+",
+		"name": "Yellow",
+		"colorGroup": "Yellow",
+		"colorCodes": [
+			"#FFFF00"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 64
+	},
+	{
+		"id": 59,
+		"type": "PLA+",
+		"name": "Beige",
+		"colorGroup": "Brown",
+		"colorCodes": [
+			"#F7DD93"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 60
+	},
+	{
+		"id": 60,
+		"type": "PLA",
+		"name": "Gold",
+		"colorGroup": "Gold",
+		"colorCodes": [
+			"#CA9F02"
+		],
+		"finish": "Metal",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 61,
+		"type": "PLA+",
+		"name": "Blue",
+		"colorGroup": "Blue",
+		"colorCodes": [
+			"#1F1BC7"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 62,
+		"type": "PLA+",
+		"name": "Light Brown",
+		"colorGroup": "Brown",
+		"colorCodes": [
+			"#a98655"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 70
+	},
+	{
+		"id": 63,
+		"type": "PLA+",
+		"name": "Light Brown",
+		"colorGroup": "Brown",
+		"colorCodes": [
+			"#a98655"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 64,
+		"type": "PLA+",
+		"name": "Brown",
+		"colorGroup": "Brown",
+		"colorCodes": [
+			"#482f24"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 65,
+		"type": "PLA+",
+		"name": "Olive Green",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#4d6327"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 66,
+		"type": "PLA+",
+		"name": "Fire Engine Red",
+		"colorGroup": "Red",
+		"colorCodes": [
+			"#C00000"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 3",
+		"spoolNo": 67
+	},
+	{
+		"id": 67,
+		"type": "PLA+",
+		"name": "Orange",
+		"colorGroup": "Orange",
+		"colorCodes": [
+			"#ff4e00"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 2",
+		"spoolNo": 62
+	},
+	{
+		"id": 68,
+		"type": "PLA+",
+		"name": "Grey",
+		"colorGroup": "Grey",
+		"colorCodes": [
+			"#3a3a3a"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 69,
+		"type": "PLA+",
+		"name": "Chrome Blue",
+		"colorGroup": "Blue",
+		"colorCodes": [
+			"#00cbff"
+		],
+		"finish": "Silk",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 68
+	},
+	{
+		"id": 70,
+		"type": "PLA+",
+		"name": "Royal Blue",
+		"colorGroup": "Blue",
+		"colorCodes": [
+			"#0068ff"
+		],
+		"finish": "Silk",
+		"brand": "SA Filament",
+		"location": "Tub 2",
+		"spoolNo": 63
+	},
+	{
+		"id": 71,
+		"type": "PLA+",
+		"name": "Haze Blue",
+		"colorGroup": "Blue",
+		"colorCodes": [
+			"#4274da"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 72,
+		"type": "PLA+",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#000000"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 65
+	},
+	{
+		"id": 73,
+		"type": "PLA+",
+		"name": "Cold White",
+		"colorGroup": "White",
+		"colorCodes": [
+			"#FFFFFF"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 74,
+		"type": "PLA",
+		"name": "Purple",
+		"colorGroup": "Purple",
+		"colorCodes": [
+			"#8303ff"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Tub 3",
+		"spoolNo": 69
+	},
+	{
+		"id": 75,
+		"type": "PLA+",
+		"name": "Merlot",
+		"colorGroup": "Red",
+		"colorCodes": [
+			"#C90332"
+		],
+		"finish": "Silk",
+		"brand": "SA Filament",
+		"location": "Ext",
+		"spoolNo": null
+	},
+	{
+		"id": 76,
+		"type": "PLA+",
+		"name": "Chrome Green",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#00ffa9"
+		],
+		"finish": "Silk",
+		"brand": "SA Filament",
+		"location": "Tub 1",
+		"spoolNo": 66
+	},
+	{
+		"id": 77,
+		"type": "PLA+",
+		"name": "Black",
+		"colorGroup": "Black",
+		"colorCodes": [
+			"#000000"
+		],
+		"finish": "",
+		"brand": "eSUN",
+		"location": "Tub 1",
+		"spoolNo": 6
+	},
+	{
+		"id": 78,
+		"type": "PLA+",
+		"name": "Turquoise",
+		"colorGroup": "Green",
+		"colorCodes": [
+			"#00ffe2"
+		],
+		"finish": "",
+		"brand": "SA Filament",
+		"location": "Ext",
+		"spoolNo": null
+	}
+]
